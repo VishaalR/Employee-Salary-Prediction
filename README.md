@@ -26,4 +26,10 @@ Enter some example inputs and see whether the predicted salary is **>50K** or **
 
 ---
 
+## 🚀 Live Demo
+
+Try the live app here: [Employee Salary Prediction on Hugging Face](https://huggingface.co/spaces/VishaalR/Employee-Salary-Prediction)
+
+---
+
 Built by Vishaal R
