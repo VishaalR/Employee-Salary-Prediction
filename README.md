@@ -21,9 +21,6 @@ This web app predicts whether an employee earns **more than $50K or less than or
 - `scikit-learn` for training and modeling
 - `pandas` and `joblib` for data handling and model storage
 
-## 🔍 Try it Now!
-Enter some example inputs and see whether the predicted salary is **>50K** or **<=50K**!
-
 ---
 
 ## 🚀 Live Demo
